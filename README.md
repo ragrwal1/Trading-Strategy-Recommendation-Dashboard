@@ -41,6 +41,7 @@ graph TD
     C --> E[Market Data Sources]
     D --> F[Recommendations]
     F --> A
+```
 
 Components:
 	1.	User Interface (Svelte): The frontend where users manage strategies, configure settings, and view recommendations.
